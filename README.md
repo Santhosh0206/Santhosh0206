@@ -11,37 +11,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-# santhosh_kumar.py
 
-class SanthoshKumar:
-    def __init__(self):
-        self.name        = "Santhosh Kumar G"
-        self.location    = "Nagapattinam, Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E Electronics & Communication Engineering"
-        self.college     = "E.G.S. Pillay Engineering College"
-        self.cgpa        = 7.9
-        self.email       = "santhoshkumarece0@gmail.com"
-
-        self.stack = [
-            "Python", "HTML", "CSS",
-            "MySQL", "Git", "GitHub"
-        ]
-
-        self.currently_learning = [
-            "React.js  → Components, Hooks, State Management",
-            "Django    → REST APIs, ORM, Auth",
-            "Docker    → Containers, Compose, Deployments",
-        ]
-
-        self.fun_fact = (
-            "I debug code better with chai ☕ in hand!"
-        )
-
-    def motto(self) -> str:
-        return "Build. Break. Learn. Repeat. 🔄"
-
-me = SanthoshKumar()
-print(me.motto())
 ```
 
 <br clear="right"/>
