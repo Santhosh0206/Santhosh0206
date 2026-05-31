@@ -122,7 +122,7 @@
 
 [![Email](https://img.shields.io/badge/Email-santhoshkumarece0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkumarece0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-santhoshkumarece0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkumarece0)
+[![GitHub](https://img.shields.io/badge/GitHub-Santhosh0206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkumarece0)
 
 </div>
 
