@@ -1,65 +1,137 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar%&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Associate%20Software%20Engineer%20%7C%20Python%20Enthusiast%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santhosh%20Kumar%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20Full%20Stack%20%7C%20Building%20clean%2C%20scalable%20web%20solutions&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Santhosh+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%2B+Web;Building+Real-World+Web+Applications;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Santhosh+Kumar+%F0%9F%91%8B;Python+Full+Stack+Developer;Building+Web+Apps+with+Purpose;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
 
+---
+
+## 👨‍💻 About Me
+
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```python
+class SanthoshKumar:
+    def __init__(self):
+        self.name         = "Santhosh Kumar G"
+        self.location     = "Nagapattinam, Tamil Nadu, India 🇮🇳"
+        self.degree       = "B.E. Electronics & Communication Engineering"
+        self.college      = "E.G.S. Pillay Engineering College"
+        self.cgpa         = 7.9
+        self.role         = "Software Developer @ Stackly"
+        self.stack        = ["Python", "JavaScript", "HTML", "CSS", "MySQL"]
+        self.tools        = ["Git", "GitHub"]
+        self.currently_learning = [
+            "Advanced Python Patterns",
+            "REST API Design",
+            "React.js",
+            "Docker Basics"
+        ]
+        self.fun_fact     = "I debug with print() and I'm not ashamed 🐛"
+
+    def motto(self):
+        return "Write code that humans can read, not just machines."
+
+me = SanthoshKumar()
+print(me.motto())
+```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Web**
+**Frameworks & Libraries**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & DevOps**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Tools & Platforms**
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/santhoshkumarece0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumarece0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/santhoshkumarece0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumarece0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=santhoshkumarece0&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumarece0&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santhoshkumarece0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>TechnoHacks Solutions</strong> — Full Stack Developer Intern &nbsp;|&nbsp; Jan 2025 – Feb 2025 &nbsp;|&nbsp; Remote</summary>
+<summary>🏢 <strong>Stackly</strong> — Software Developer &nbsp;|&nbsp; April 2026 – Present &nbsp;|&nbsp; India</summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> `Python` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Agile`
 
-- 🔨 Completed a **comprehensive Full Stack Development Internship** focused on building end-to-end web applications from scratch.
-- 🖥️ Gained hands-on experience with **both front-end and back-end technologies**, bridging UI design and server-side logic.
-- 🚀 Developed and deployed complete web applications under real-world project conditions, improving delivery speed and code quality.
-- 📚 Strengthened understanding of **software development lifecycle** — from requirements gathering to deployment and debugging.
+- 🔧 Developed and maintained full-featured web applications using **Python** and **JavaScript**
+- 🤝 Collaborated with cross-functional team members to design and implement new product features
+- 🎨 Built responsive frontend interfaces using **HTML**, **CSS**, and **JavaScript**
+- 🔗 Integrated backend services with databases for seamless data flow
+- 📋 Followed **Agile development practices** with version control via Git & GitHub
+
+</details>
+
+<details>
+<summary>🎓 <strong>TechnoHacks Solutions</strong> — Full Stack Developer Intern &nbsp;|&nbsp; Jan 2025 – Feb 2025</summary>
+
+<br/>
+
+> `HTML` `CSS` `JavaScript` `Python` `MySQL` `Full Stack Development`
+
+- 🌐 Gained hands-on experience building complete web applications end-to-end
+- 🖥️ Developed skills across both **front-end** and **back-end** technologies
+- 🏗️ Built and shipped full-stack features as part of a structured internship program
+- 📚 Strengthened understanding of the full software development lifecycle
 
 </details>
 
@@ -70,23 +142,25 @@
 <div align="center">
 
 | Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
-| 🍽️ [**Restaurant Booking & Food Ordering Website**](https://github.com/santhoshkumarece0) | Python · HTML · CSS · MySQL | Full-stack app with menu browsing, table reservations, real-time order tracking · Secure user auth & authorization · Dynamic DB for menus, orders & bookings · Optimized backend for scalability |
+|--------|-------|------------|
+| 🌐 **Web Application (Stackly)** | Python, JavaScript, HTML, CSS, MySQL | Production web app; Agile-delivered features; integrated DB backend |
+| 🛠️ **Full Stack Internship Projects** | HTML, CSS, JS, Python | End-to-end apps built during TechnoHacks internship program |
+| 📦 **Personal Dev Projects** | Python, MySQL, Git | Exploratory projects to deepen Python & SQL skills |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🎖️ Achievements & Certifications
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|:---:|:-----------:|:-------:|
-| 🎓 | **JSpiders Certification** | Full Stack Developer — Completed structured training in web development technologies |
-| 🏦 | **IBM Certification** | SQL and Relational Databases — Proficiency in database design and querying |
-| 💻 | **Internship Completion** | TechnoHacks Solutions · Full Stack Developer · Jan–Feb 2025 |
-| 🎯 | **B.E Graduate** | Electronics & Communication Engineering · CGPA 7.9 / 10 |
+| 🏅 | Achievement | Details |
+|----|-------------|---------|
+| 🎓 | **JSpiders Certification** | Full Stack Developer — Certified in full-stack web development |
+| 🏢 | **IBM Certification** | SQL and Relational Databases — Issued by IBM |
+| 💼 | **Internship Completion** | TechnoHacks Solutions — Full Stack Developer, Jan–Feb 2025 |
+| 🚀 | **Professional Role** | Hired as Software Developer at Stackly, April 2026 |
 
 </div>
 
@@ -97,8 +171,8 @@
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| 🎓 B.E — Electronics & Communication Engineering | E.G.S. Pillay Engineering College, Nagapattinam, Tamil Nadu | 2021 – 2024 | CGPA: 7.9 / 10 |
+|--------|-------------|------|-------|
+| 🎓 B.E. Electronics & Communication Engineering | E.G.S. Pillay Engineering College, Nagapattinam, TN | 2021 – 2024 | CGPA: 7.9 |
 
 </div>
 
@@ -107,11 +181,12 @@
 ## 🧠 Currently Learning
 
 ```
-🐍 Django        →  REST APIs · ORM · Authentication · Middleware
-⚛️  React.js      →  Components · Hooks · State Management · Router
-🐳 Docker        →  Containers · Docker Compose · Deployment Pipelines
-☁️  Cloud Basics  →  AWS Fundamentals · EC2 · S3 · Serverless
-🔐 Web Security  →  JWT · OAuth2 · HTTPS · Input Validation
+🐍 Python        → Advanced patterns, OOP, APIs
+🌐 JavaScript    → ES6+, async/await, DOM mastery
+⚛️  React.js      → Components, Hooks, State Management
+🗄️  SQL           → Query optimisation, Joins, Indexing
+🐳 Docker        → Containerisation basics
+🔗 REST APIs     → Design, FastAPI / Flask
 ```
 
 ---
@@ -121,13 +196,13 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-santhoshkumarece0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkumarece0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Santhosh0206-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkumarece0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhoshkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-santhoshkumarece0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkumarece0)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santhosh0206&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=santhoshkumarece0&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
