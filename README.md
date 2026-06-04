@@ -16,7 +16,7 @@
 class SanthoshKumar:
     def __init__(self):
         self.name         = "Santhosh Kumar G"
-        self.location     = "Nagapattinam, Tamil Nadu, India 🇮🇳"
+        self.location     = "Chennai, Tamil Nadu, India 🇮🇳"
         self.degree       = "B.E. Electronics & Communication Engineering"
         self.college      = "E.G.S. Pillay Engineering College"
         self.cgpa         = 7.9
